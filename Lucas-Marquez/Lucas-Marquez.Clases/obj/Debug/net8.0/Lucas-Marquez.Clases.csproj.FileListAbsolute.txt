@@ -1,0 +1,12 @@
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\bin\Debug\net8.0\Lucas-Marquez.Clases.deps.json
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\bin\Debug\net8.0\Lucas-Marquez.Clases.dll
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\bin\Debug\net8.0\Lucas-Marquez.Clases.pdb
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\Lucas-Marquez.Clases.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\Lucas-Marquez.Clases.AssemblyInfoInputs.cache
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\Lucas-Marquez.Clases.AssemblyInfo.cs
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\Lucas-Marquez.Clases.csproj.CoreCompileInputs.cache
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\Lucas-Marquez.Clases.dll
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\refint\Lucas-Marquez.Clases.dll
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\Lucas-Marquez.Clases.pdb
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\ref\Lucas-Marquez.Clases.dll
+E:\c#\CoderHouseEjemplo\Lucas-Marquez\Lucas-Marquez.Clases\obj\Debug\net8.0\Lucas-Marquez.Clases.csproj.AssemblyReference.cache
